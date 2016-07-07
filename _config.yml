@@ -6,9 +6,12 @@ color:
   saturation: 0.29707188881002367
   rhythmicContrast: 0.06902398122474551
   brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: Mark Royce Photography
+author:
+  name: Mark Royce
+  email: roycie@me.com
