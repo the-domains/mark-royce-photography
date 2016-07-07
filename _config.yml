@@ -1,17 +1,29 @@
-layout_spectrum: 0.44364908523857594
-typography_spectrum: 0.7690021116286516
+author:
+  name: Mark Royce
+  email: roycie@me.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.1414322992786765
-  lightness: 0.986346194986254
   saturation: 0.8101117152255028
-  rhythmicContrast: 0.45315300254151225
+  brandStrength: 0.1414322992786765
+  rhythmicContrast: 0.4531530025415123
   brandColors:
     - '#FCFFF5'
     - '#D1DBBD'
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+  lightness: 0.986346194986254
+typography_spectrum: 0.6553192
+layout_spectrum: 0.3042553
 name: Mark Royce Photography
-author:
-  name: Mark Royce
-  email: roycie@me.com
