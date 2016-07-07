@@ -1,16 +1,16 @@
-layout_spectrum: 0.029525917256250978
-typography_spectrum: 0.5759148425422609
+layout_spectrum: 0.06566594867035747
+typography_spectrum: 0.8542754808440804
 color:
-  brandStrength: 0.7100626926403493
-  lightness: 0.40483826608397067
-  saturation: 0.29707188881002367
-  rhythmicContrast: 0.06902398122474551
+  brandStrength: 0.3854569033719599
+  lightness: 0.9394676992669702
+  saturation: 0.44588792230933905
+  rhythmicContrast: 0.4221333437599242
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: Mark Royce Photography
 author:
   name: Mark Royce
