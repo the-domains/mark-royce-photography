@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-07T04:17:49.722Z'
+datePublished: '2016-07-07T04:19:33.882Z'
 sourcePath: _posts/2016-07-07-atacama-landscape.md
 author: []
-dateModified: '2016-07-07T04:17:32.498Z'
+dateModified: '2016-07-07T04:19:32.028Z'
 title: Atacama Landscape
 description: ''
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
